@@ -1,6 +1,3 @@
-from bot.zelos_api import *
-
-
 class CreateBot:
     def __init__(self, invite_link):
         """
